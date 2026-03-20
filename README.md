@@ -1,6 +1,6 @@
   CTO at NetCero · Managing Director at dectria · Tech Entrepreneur
 
-  - 🎙️ [minuta](https://github.com/michaeljauk/minuta) — local-first AI meeting note taker with Obsidian integration
+  - 🧠 [brain-starter](https://github.com/michaeljauk/brain-starter) — opinionated, Claude Code-powered second brain template for Obsidian
   - ✅ [obsidian-todoist-vault](https://github.com/michaeljauk/obsidian-todoist-vault) — Obsidian plugin that syncs Todoist projects as real markdown files
 
   ---
